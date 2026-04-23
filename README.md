@@ -4,7 +4,7 @@
 **Research Question:** To what extent can AI-based features be integrated into 3D mobile environments before graphics latency exceeds acceptable limits?  
 **License (Data):** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **License (Code):** [MIT](LICENSE.md)  
-**Archived DOI:** *(to be assigned upon Zenodo deposit)*
+**Archived DOI:** [DOI](https://doi.org/10.5281/zenodo.19708747)
 
 ---
 
@@ -162,7 +162,7 @@ Downstream users may freely use, adapt, and redistribute any content in this rep
 
 If you use this dataset or code, please cite:
 
-> Jumani, A. N. (2025). *Determining Performance Thresholds for AI-Enhanced 3D Mobile Rendering* [Dataset and analysis code]. GitHub. *(DOI to be added upon Zenodo deposit)*
+> Jumani, A. N. (2025). *Determining Performance Thresholds for AI-Enhanced 3D Mobile Rendering* [Dataset and analysis code]. GitHub. [DOI](https://doi.org/10.5281/zenodo.19708747)*
 
 ---
 
