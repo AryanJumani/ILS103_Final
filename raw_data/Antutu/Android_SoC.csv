@@ -1,0 +1,1453 @@
+Platform,Category,Device,CPU Score,GPU Score,Total Score
+Android,SoC,"1
+
+
+                                    Qualcomm Snapdragon 8 Elite Gen 5                                
+
+                                    (2x 4.6GHz Oryon Prime & 6x 3.62GHz Oryon Performance)",1096583,1352477,2449060
+Android,SoC,"2
+
+
+                                    MediaTek Dimensity 9500                                
+
+                                    (1x 4.21GHz C1-Ultra & 3x 3.5GHz C1-Premiuim & 4x 2.7GHz C1-Pro)",941111,1378850,2319961
+Android,SoC,"3
+
+
+                                    Qualcomm Snapdragon 8 Elite                                
+
+                                    (2x 4.32GHz Oryon Prime & 6x 3.53GHz Oryon Performance)",894572,1095845,1990417
+Android,SoC,"4
+
+
+                                    Qualcomm Snapdragon 8 Gen 5                                
+
+                                    (2x 3.8GHz Oryon Prime & 6x 3.32GHz Oryon Performance)",939588,993655,1933243
+Android,SoC,"5
+
+
+                                    MediaTek Dimensity 9400+                                
+
+                                    (1x 3.73GHz Cortex-X925 & 3x 3.3GHz Cortex-X4 & 4x 2.4GHz Cortex-A720)",822773,974650,1797423
+Android,SoC,"6
+
+
+                                    MediaTek Dimensity 9400                                
+
+                                    (1x 3.626GHz Cortex-X925 & 3x 3.3GHz Cortex-X4 & 4x 2.4GHz Cortex-A720)",842873,945966,1788839
+Android,SoC,"7
+
+
+                                    Mi XRing O1                                
+
+                                    (2x 3.9GHz Cortex-X925 & 4x 3.4GHz Cortex-A725 & 2x 1.9GHz Cortex-A725 & 2x 1.8GHz Cortex-A520)",856631,725956,1582587
+Android,SoC,"8
+
+
+                                    MediaTek Dimensity 9400e                                
+
+                                    (1x 3.4GHz Cortex-X4 & 3x 2.85GHz Cortex-X4 & 4x 2.0GHz Cortex-A720)",716862,782970,1499832
+Android,SoC,"9
+
+
+                                    Samsung Exynos 2500                                
+
+                                    (1x 3.3GHz Cortex-X925 & 2x 2.36GHz Cortex-A725 & 5x 1.8GHz Cortex-A725 & 2x 1.8GHz Cortex-A520)",636465,801261,1437726
+Android,SoC,"10
+
+
+                                    Qualcomm Snapdragon 8s Gen 4                                
+
+                                    (1x 3.2GHz Cortex-X4 & 3x 3.0GHz Cortex-A720 & 2x 2.8GHz Cortex-A720 & 2x 2.0GHz Cortex-A720)",650093,766340,1416433
+Android,SoC,"11
+
+
+                                    MediaTek Dimensity 9300+                                
+
+                                    (1x 3.4GHz Cortex-X4 & 3x 2.85GHz Cortex-X4 & 4x 2.0GHz Cortex-A720)",672888,710095,1382983
+Android,SoC,"12
+
+
+                                    Qualcomm Snapdragon 8 Gen 3                                
+
+                                    (1x 3.3GHz Cortex-X4 & 3x 3.15GHz Cortex-A720 & 2x 2.96GHz Cortex-A720 & 2x 2.27GHz Cortex-A520)",620662,751867,1372529
+Android,SoC,"13
+
+
+                                    MediaTek Dimensity 9300                                
+
+                                    (1x 3.25GHz Cortex-X4 & 3x 2.85GHz Cortex-X4 & 4x 2.0GHz Cortex-A720)",659488,684599,1344087
+Android,SoC,"14
+
+
+                                    Samsung Exynos 2400                                
+
+                                    (1x 3.2GHz Cortex-X4 & 2x 2.9GHz Cortex-A720 & 3x 2.6GHz Cortex-A720 & 4x 1.95GHz Cortex-A520)",640245,624993,1265238
+Android,SoC,"15
+
+
+                                    MediaTek Dimensity 8450                                
+
+                                    (1x 3.25GHz Cortex-A725 & 3x 3.0GHz Cortex-A725 & 4x 2.1GHz Cortex-A725)",605367,627849,1233216
+Android,SoC,"16
+
+
+                                    MediaTek Dimensity 8400-Turbo                                
+
+                                    (1x 3.25GHz Cortex-A725 & 3x 3.0GHz Cortex-A725 & 4x 2.1GHz Cortex-A725)",633378,599160,1232538
+Android,SoC,"17
+
+
+                                    MediaTek Dimensity 8400-Max                                
+
+                                    (1x 3.25GHz Cortex-A725 & 3x 3.0GHz Cortex-A725 & 4x 2.1GHz Cortex-A725)",621768,571333,1193101
+Android,SoC,"18
+
+
+                                    MediaTek Dimensity 8400-Ultra                                
+
+                                    (1x 3.25GHz Cortex-A725 & 3x 3.0GHz Cortex-A725 & 4x 2.1GHz Cortex-A725)",593420,560534,1153954
+Android,SoC,"19
+
+
+                                    Qualcomm Snapdragon 8s Gen 3                                
+
+                                    (1x 3.0GHz Cortex-X4 & 4x 2.8GHz Cortex-A720  & 3x 2.0GHz Cortex-A520)",535562,488374,1023936
+Android,SoC,"20
+
+
+                                    MediaTek Dimensity 9200+                                
+
+                                    (1x 3.35GHz Cortex-X3 & 3x 3.0GHz Cortex-A715 & 4x 2.0GHz Cortex-A510)",515261,507250,1022511
+Android,SoC,"21
+
+
+                                    MediaTek Dimensity 9200                                
+
+                                    (1x 3.05GHz Cortex-X3 & 3x 2.85GHz Cortex-A715 & 4x 1.8GHz Cortex-A510)",509636,493526,1003162
+Android,SoC,"22
+
+
+                                    Qualcomm Snapdragon 8 Gen 2                                
+
+                                    (1x 3.2GHz Cortex-X3 & 2x 2.8GHz Cortex-A715 & 2x 2.8GHz Cortex-A710 & 3x 2.0GHz Cortex-A510)",538357,414452,952809
+Android,SoC,"23
+
+
+                                    Google Tensor G4                                
+
+                                    (1x 3.1GHz Cortex-X4 & 3x 2.6GHz Cortex-A720 & 4x 1.92GHz Cortex-A520)",521122,404393,925515
+Android,SoC,"24
+
+
+                                    MediaTek Dimensity 8350 Ultimate                                
+
+                                    (1x 3.35GHz Cortex-A715 & 3x 3.2GHz Cortex-A715 & 4x 2.2GHz Cortex-A510)",443501,463868,907369
+Android,SoC,"25
+
+
+                                    Qualcomm Snapdragon 7+ Gen 3                                
+
+                                    (1x 2.8 GHz Cortex-X4 & 4x 2.6 GHz Cortex-A720 & 3x 1.9 GHz Cortex-A520)",502065,403259,905324
+Android,SoC,"26
+
+
+                                    MediaTek Dimensity 9000+                                
+
+                                    (1x 3.20GHz Cortex-X2 & 3x 2.85GHz Cortex-A710 & 4x 1.8GHz Cortex-A510)",521563,293134,814697
+Android,SoC,"27
+
+
+                                    MediaTek Dimensity 8350                                
+
+                                    (1x 3.35GHz Cortex-A715 & 3x 3.2GHz Cortex-A715 & 4x 2.2GHz Cortex-A510)",432859,374783,807642
+Android,SoC,"28
+
+
+                                    Google Tensor G3                                
+
+                                    (1x 3.0GHz Cortex-X3 & 4x 2.45GHz Cortex-A715 & 4x 2.15GHz Cortex-A510)",441836,358996,800832
+Android,SoC,"29
+
+
+                                    MediaTek Dimensity 8300-Ultra                                
+
+                                    (1x 3.35GHz Cortex-A715 & 3x 3.2GHz Cortex-A715 & 4x 2.2GHz Cortex-A510)",421566,375286,796852
+Android,SoC,"30
+
+
+                                    MediaTek Dimensity 9000                                
+
+                                    (1x 3.05GHz Cortex-X2 & 3x 2.85GHz Cortex-A710 & 4x 1.8GHz Cortex-A510)",518779,267511,786290
+Android,SoC,"31
+
+
+                                    Qualcomm Snapdragon 8+ Gen 1                                
+
+                                    (1x 3.2GHz Kryo Prime & 3x 2.75GHz Kryo Gold & 4x 2.0GHz Kryo Silver)",543529,239238,782767
+Android,SoC,"32
+
+
+                                    Samsung Exynos 2200                                
+
+                                    (1x 2.8GHz Cortex-X2 & 3x 2.50GHz Cortex-A710 & 4x 1.8GHz Cortex-A510)",420123,352928,773051
+Android,SoC,"33
+
+
+                                    Qualcomm Snapdragon 7 Gen 4                                
+
+                                    (1x 2.8GHz Cortex-A720 & 4x 2.4GHz Cortex-A720 & 3x 1.84GHz Cortex-A520)",454820,283759,738579
+Android,SoC,"34
+
+
+                                    Qualcomm Snapdragon 8+ Gen 1 UC                                
+
+                                    (1x 3.0GHz Kryo Prime & 3x 2.5GHz Kryo Gold & 4x 1.8GHz Kryo Silver)",518355,209917,728272
+Android,SoC,"35
+
+
+                                    MediaTek Dimensity 8250                                
+
+                                    (1x 3.1GHz Cortex-A78 & 3x 3.0GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",451357,230551,681908
+Android,SoC,"36
+
+
+                                    HiSilicon Kirin 9020                                
+
+                                    (1x 2.5GHz & 3x 2.15GHz & 4x 1.6GHz)",455084,225334,680418
+Android,SoC,"37
+
+
+                                    Qualcomm Snapdragon 7+ Gen 2                                
+
+                                    (1x 2.91GHz Kryo Prime & 3x 2.49GHz Kryo Gold & 4x 1.8GHz Kryo Silver)",508830,163487,672317
+Android,SoC,"38
+
+
+                                    MediaTek Dimensity 8200/8200 Ultra                                
+
+                                    (1x 3.1GHz Cortex-A78 & 3x 3.0GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",441579,220001,661580
+Android,SoC,"39
+
+
+                                    Qualcomm Snapdragon 8 Gen 1                                
+
+                                    (1x 3.0GHz Kryo Prime & 3x 2.5GHz Kryo Gold & 4x 1.8GHz Kryo Silver)",443124,212716,655840
+Android,SoC,"40
+
+
+                                    HiSilicon Kirin 9020A                                
+
+                                    (1x 2.4GHz & 3x 2.02GHz & 4x 1.6GHz)",452139,195207,647346
+Android,SoC,"41
+
+
+                                    Google Tensor G2                                
+
+                                    (2x 2.85GHz Cortex-X1 & 2x 2.35GHz Cortex-A78 & 4x 1.80GHz Cortex-A55)",380887,263843,644730
+Android,SoC,"42
+
+
+                                    Qualcomm Snapdragon 888 Plus                                
+
+                                    (1x 3.0GHz Kryo 680 Prime & 3x 2.4GHz Kryo 680 Gold & 4x 1.8GHz Kryo 680 Sliver)",403013,205998,609011
+Android,SoC,"43
+
+
+                                    Qualcomm Snapdragon 7 Gen 3                                
+
+                                    (1x 2.63GHz Cortex-A715 & 3x 2.4GHz Cortex-A715 & 4x 1.8GHz Cortex-A510)",392906,214188,607094
+Android,SoC,"44
+
+
+                                    MediaTek Dimensity 8100-Max                                
+
+                                    (4x 2.85GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",407902,198588,606490
+Android,SoC,"45
+
+
+                                    MediaTek Dimensity 8100                                
+
+                                    (4x 2.85GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",413235,185896,599131
+Android,SoC,"46
+
+
+                                    Qualcomm Snapdragon 888                                
+
+                                    (1x 2.84GHz Kryo 680 Prime & 3x 2.4GHz Kryo 680 Gold & 4x 1.8GHz Kryo 680 Sliver)",404164,193900,598064
+Android,SoC,"47
+
+
+                                    Qualcomm Snapdragon 870                                
+
+                                    (1x 3.2GHz Kryo 585 Prime & 3x 2.42GHz Kryo 585 Gold & 4x 1.8GHz Kryo 585 Sliver)",401595,186250,587845
+Android,SoC,"48
+
+
+                                    Qualcomm Snapdragon 865 Plus                                
+
+                                    (1x 3.1GHz Kryo 585 Prime & 3x 2.42GHz Kryo 585 Gold & 4x 1.8GHz Kryo 585 Sliver)",402864,182988,585852
+Android,SoC,"49
+
+
+                                    Samsung Exynos 1480                                
+
+                                    (4x 2.75GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",361997,221241,583238
+Android,SoC,"50
+
+
+                                    HiSilicon Kirin 9010                                
+
+                                    (1x 2.3GHz TSV big & 3x 2.18GHz TSV middle & 4x 1.55GHz Cortex-A510)",419285,154292,573577
+Android,SoC,"51
+
+
+                                    Qualcomm Snapdragon 7s Gen 3                                
+
+                                    (1x 2.5GHz Cortex-A720 & 3x 2.4GHz Cortex-A720 & 4x 1.8GHz Cortex-A520)",396734,175933,572667
+Android,SoC,"52
+
+
+                                    Qualcomm Snapdragon 865                                
+
+                                    (1x 2.84GHz Kryo 585 Prime & 3x 2.42GHz Kryo 585 Gold & 4x 1.8GHz Kryo 585 Sliver)",387564,167527,555091
+Android,SoC,"53
+
+
+                                    HiSilicon Kirin 9000s                                
+
+                                    (1x 2.62GHz TSV big & 3x 2.15GHz TSV middle & 4x 1.53GHz Cortex-A510)",385167,157654,542821
+Android,SoC,"54
+
+
+                                    HiSilicon Kirin 9000                                
+
+                                    (1x 3.13GHz Cortex-A77 & 3x 2.54GHz Cortex-A77 & 4x 2.05GHz Cortex-A55)",354708,185144,539852
+Android,SoC,"55
+
+
+                                    HiSilicon Kirin 9000E                                
+
+                                    (1x 3.13GHz Cortex-A77 & 3x 2.54GHz Cortex-A77 & 4x 2.05GHz Cortex-A55)",351895,179452,531347
+Android,SoC,"56
+
+
+                                    MediaTek Dimensity 8000                                
+
+                                    (4x 2.75GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",373597,153414,527011
+Android,SoC,"57
+
+
+                                    Qualcomm Snapdragon 6 Gen 4                                
+
+                                    (1x 2.3GHz Cortex-A720 & 3x 2.2GHz Cortex-A720 & 4x 1.8GHz Cortex-A520)",360238,163074,523312
+Android,SoC,"58
+
+
+                                    HiSilicon Kirin 9010E                                
+
+                                    (1x 2.189GHz TSV big & 3x 2.18GHz TSV middle & 4x 1.55GHz Cortex-A510)",392964,123902,516866
+Android,SoC,"59
+
+
+                                    HiSilicon Kirin 9010L                                
+
+                                    (1x 2.189GHz TSV big & 2x 2.18GHz TSV middle & 3x 1.4GHz Cortex-A510)",393669,121989,515658
+Android,SoC,"60
+
+
+                                    Google Tensor                                
+
+                                    (2x 2.8GHz Cortex-X1 & 2x 2.25GHz Cortex-A76 & 4x 1.8GHz Cortex-A55)",371525,140340,511865
+Android,SoC,"61
+
+
+                                    HiSilicon Kirin 9000S1                                
+
+                                    (1x 2.487GHz TSV big & 3x 2.15GHz TSV middle & 4x 1.53GHz Cortex-A510)",382291,128333,510624
+Android,SoC,"62
+
+
+                                    MediaTek Dimensity 1300                                
+
+                                    (1x 3.0GHz Cortex-A78 & 3x 2.6GHz Cortex-A78 & 4 x2.0GHz Cortex-A55)",366328,139148,505476
+Android,SoC,"63
+
+
+                                    MediaTek Dimensity 7200-Ultra                                
+
+                                    (2x 2.8GHz Cortex-A715 & 6x 2.0GHz Cortex-A510)",345068,153093,498161
+Android,SoC,"64
+
+
+                                    MediaTek Dimensity 8050                                
+
+                                    (1x 3.0GHz Cortex-A78 & 3x 2.6GHz Cortex-A78 & 4x 2.0 Cortex-A55)",355714,139839,495553
+Android,SoC,"65
+
+
+                                    MediaTek Dimensity 7200                                
+
+                                    (2x 2.8GHz Cortex-A715 &  6x 2.0GHz Cortex-A510)",342154,150824,492978
+Android,SoC,"66
+
+
+                                    Samsung Exynos 2100                                
+
+                                    (1x 2.9GHz Cortex-X1 & 3x 2.8GHz Cortex-A78 & 4x 2.2GHz Cortex-A55)",296974,188341,485315
+Android,SoC,"67
+
+
+                                    MediaTek Dimensity 1200                                
+
+                                    (1x 3.0GHz Cortex-A78 & 3x 2.6GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",347016,137348,484364
+Android,SoC,"68
+
+
+                                    HiSilicon Kirin 990 5G                                
+
+                                    (2x 2.86GHz Cortex-A76 & 2x 2.36GHz Cortex-A76 & 4x 1.95GHz Cortex-A55)",338761,141470,480231
+Android,SoC,"69
+
+
+                                    HiSilicon Kirin 9000SL                                
+
+                                    (1x 2.35GHz TSV big & 2x 2.15GHz TSV middle & 3x 1.53GHz Cortex-A510)",346570,128673,475243
+Android,SoC,"70
+
+
+                                    MediaTek Dimensity 1100                                
+
+                                    (4x 2.6GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",334891,136402,471293
+Android,SoC,"71
+
+
+                                    HiSilicon Kirin 990                                
+
+                                    (2x 2.86GHz Cortex-A76 & 2x 2.09GHz Cortex-A76 & 4x 1.86GHz Cortex-A55)",321548,140518,462066
+Android,SoC,"72
+
+
+                                    Samsung Exynos 990                                
+
+                                    (2x 2.73GHz M5 & 2x 2.50GHz Cortex-A76 & 4x 2.0GHz Cortex-A55)",300684,156948,457632
+Android,SoC,"73
+
+
+                                    Samsung Exynos 1080                                
+
+                                    (1x 2.8GHz Cortex-A78 & 3x 2.6GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",313238,136179,449417
+Android,SoC,"74
+
+
+                                    Qualcomm Snapdragon 782G                                
+
+                                    (1x 2.7GHz Kryo 670 Prime & 3x 2.2GHz Kryo 670 Gold & 4x 1.9GHz Kryo 670 Silver)",337605,111471,449076
+Android,SoC,"75
+
+
+                                    Qualcomm Snapdragon 855 Plus                                
+
+                                    (1x 2.96GHz Kryo 485 Gold & 3x 2.42GHz Kryo 485 Gold & 4x 1.8GHz Kryo 485 Sliver)",310340,126398,436738
+Android,SoC,"76
+
+
+                                    Qualcomm Snapdragon 7 Gen 1                                
+
+                                    (1x 2.4GHz Kryo Prime & 3x 2.36GHz Kryo Gold & 4x 1.8GHz Kryo Silver)",325492,106936,432428
+Android,SoC,"77
+
+
+                                    Qualcomm Snapdragon 855                                
+
+                                    (1x 2.84GHz Kryo 485 Gold & 3x 2.41GHz Kryo 485 Gold & 4x 1.78GHz Kryo 485 Sliver)",305001,124776,429777
+Android,SoC,"78
+
+
+                                    MediaTek Dimensity 8020                                
+
+                                    (4x 2.6GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",284015,142876,426891
+Android,SoC,"79
+
+
+                                    HiSilicon Kirin 990E                                
+
+                                    (2x 2.86GHz Cortex-A76 & 2x 2.36GHz Cortex-A76 & 4x 1.95GHz Cortex-A55)",295149,127090,422239
+Android,SoC,"80
+
+
+                                    Qualcomm Snapdragon 860                                
+
+                                    (1x 2.84GHz Kryo 485 Gold & 3x 2.41GHz Kryo 485 Gold & 4x 1.78GHz Kryo 485 Sliver)",290157,127495,417652
+Android,SoC,"81
+
+
+                                    Qualcomm Snapdragon 778G Plus                                
+
+                                    (1x 2.5GHz Kryo 670 Prime & 3x 2.2GHz Kryo 670 Gold & 4x 1.9GHz Kryo 670 Sliver)",311492,105023,416515
+Android,SoC,"82
+
+
+                                    Qualcomm Snapdragon 780G                                
+
+                                    (1x 2.4GHz Kryo 670 Prime & 3x 2.2GHz Kryo 670 Gold & 4x 1.9GHz 670 Sliver)",311878,102284,414162
+Android,SoC,"83
+
+
+                                    Samsung Exynos 9825                                
+
+                                    (2x 2.73GHz M4 & 2x 2.4GHz Cortex-A75 & 4x 1.95GHz Cortex-A55)",267009,136537,403546
+Android,SoC,"84
+
+
+                                    MediaTek Dimensity 7300-Ultra                                
+
+                                    (4x 2.5GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",311026,92184,403210
+Android,SoC,"85
+
+
+                                    MediaTek Dimensity 1000+                                
+
+                                    (4x 2.6GHz Cortex-A77 & 4x 2.0 GHz Cortex-A55)",281305,120431,401736
+Android,SoC,"86
+
+
+                                    Qualcomm Snapdragon 778G                                
+
+                                    (1x 2.4GHz Kryo 670 Prime & 3x 2.2GHz Kryo 670 Gold & 4x 1.9GHz Kryo 670 Sliver)",300542,99884,400426
+Android,SoC,"87
+
+
+                                    Qualcomm Snapdragon 7s Gen 2                                
+
+                                    (4x 2.40GHz Cortex-A78 & 4x 1.95GHz Cortex-A55)",309512,89788,399300
+Android,SoC,"88
+
+
+                                    Samsung Exynos 9820                                
+
+                                    (2x 2.73GHz M4 & 2x 2.31GHz Cortex-A75 & 4x 1.95GHz Cortex-A55)",260763,129444,390207
+Android,SoC,"89
+
+
+                                    Qualcomm Snapdragon 6 Gen 3                                
+
+                                    (4x 2.4GHz Cortex-A78 & 4x 1.8GHz Cortex-A55)",299077,90319,389396
+Android,SoC,"90
+
+
+                                    MediaTek Dimensity 7300X                                
+
+                                    (4x 2.5GHz Cortex-A78 & 4x 2.0GHz Cortex-A55)",294108,93431,387539
+Android,SoC,"91
+
+
+                                    MediaTek Dimensity 7300 Energy                                
+
+                                    (4x 2.5GHz Cortex-A78 & 4x 2.0GHz Cortex-A55 )",256128,126967,383095
+Android,SoC,"92
+
+
+                                    MediaTek Dimensity 1000L                                
+
+                                    (4x 2.2GHz Cortex-A77 & 4x 2.0GHz Cortex-A55)",274074,108676,382750
+Android,SoC,"93
+
+
+                                    MediaTek Dimensity 7300                                
+
+                                    (4x 2.5GHz Cortex-A78 & 4x 2.0GHz Cortex-A55 )",289659,92765,382424
+Android,SoC,"94
+
+
+                                    Samsung Exynos 1380                                
+
+                                    (4x 2.4GHz Cortex-A78 & 4x 2.0 GHz Cortex-A55)",292643,88438,381081
+Android,SoC,"95
+
+
+                                    HiSilicon Kirin 8000                                
+
+                                    (1x 2.4GHz & 3x 2.19GHz & 4x 1.84GHz)",270123,110583,380706
+Android,SoC,"96
+
+
+                                    MediaTek Dimensity 7030                                
+
+                                    (2x 2.5GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",280167,92198,372365
+Android,SoC,"97
+
+
+                                    Qualcomm Snapdragon 6 Gen 1                                
+
+                                    (4x 2.2GHz Kryo Gold & 4x 1.8GHz Kryo Silver)",277933,89318,367251
+Android,SoC,"98
+
+
+                                    MediaTek Dimensity 1080                                
+
+                                    (2x 2.6GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",291861,74583,366444
+Android,SoC,"99
+
+
+                                    MediaTek Dimensity 7050                                
+
+                                    (2x 2.6GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",289801,75892,365693
+Android,SoC,"100
+
+
+                                    MediaTek Dimensity 1050                                
+
+                                    (2x 2.5GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",282416,76344,358760
+Android,SoC,"101
+
+
+                                    MediaTek Dimensity 920                                
+
+                                    (2x 2.5GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",284803,72952,357755
+Android,SoC,"102
+
+
+                                    HiSilicon Kirin 8000A                                
+
+                                    (3x 2.19GHz Cortex-A77 & 3x 1.84GHz Cortex-A55)",253408,102896,356304
+Android,SoC,"103
+
+
+                                    HiSilicon Kirin 980                                
+
+                                    (2x 2.6GHz Cortex-A76 & 2x 1.92GHz Cortex-A76 & 4x 1.8GHz Cortex-A55)",251592,104547,356139
+Android,SoC,"104
+
+
+                                    HiSilicon Kirin 985                                
+
+                                    (1x 2.58GHz Cortex-A76 & 3x 2.4GHz Cortex-A76 & 4x 1.84GHz Cortex-A55)",266107,83560,349667
+Android,SoC,"105
+
+
+                                    MediaTek Dimensity 820                                
+
+                                    (4x 2.6GHz Cortex-A76 & 4x 2.0GHz Cortex-A55)",264871,82355,347226
+Android,SoC,"106
+
+
+                                    MediaTek Dimensity 900                                
+
+                                    (2x 2.4GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",256490,71992,328482
+Android,SoC,"107
+
+
+                                    Samsung Exynos 980                                
+
+                                    (2x 2.2GHz Cortex-A77 & 6x 1.8GHz Cortex-A55)",267789,59772,327561
+Android,SoC,"108
+
+
+                                    Unisoc T770                                
+
+                                    (1x 2.5GHz Cortex-A76 & 3x 2.2GHz Cortex-A76 & 4x 2.0GHz Cortex-A55)",241253,84653,325906
+Android,SoC,"109
+
+
+                                    HiSilicon Kirin 820                                
+
+                                    (1x 2.36GHz Cortex-A76 & 3x 2.22GHz Cortex-A76 & 4x 1.84GHz Cortex-A55)",246220,73839,320059
+Android,SoC,"110
+
+
+                                    Qualcomm Snapdragon 6s Gen 3                                
+
+                                    (2x 2.3GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",260644,59102,319746
+Android,SoC,"111
+
+
+                                    Qualcomm Snapdragon 845                                
+
+                                    (4x 2.96GHz Kryo 385 Gold & 4x 1.7GHz Kryo 385 Silver)",223667,93788,317455
+Android,SoC,"112
+
+
+                                    Unisoc T820                                
+
+                                    (1x 2.7GHz Cortex-A76 & 3x 2.3GHz Cortex-A76 & 4x 2.1GHz Cortex-A55)",264401,52665,317066
+Android,SoC,"113
+
+
+                                    MediaTek Dimensity 7025-Ultra                                
+
+                                    (2x 2.5GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",262820,51752,314572
+Android,SoC,"114
+
+
+                                    MediaTek Dimensity 7025                                
+
+                                    (2x 2.5GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",255864,54429,310293
+Android,SoC,"115
+
+
+                                    Unisoc T760                                
+
+                                    (4x 2.2GHz Cortex-A76 & 4x Cortex-A55)",255846,52662,308508
+Android,SoC,"116
+
+
+                                    Qualcomm Snapdragon 768G                                
+
+                                    (1x 2.8GHz Kryo 475 Prime & 1x 2.2GHz Kryo 475 Gold & 6x 1.8GHz Kryo 475 Sliver)",240115,67548,307663
+Android,SoC,"117
+
+
+                                    Qualcomm Snapdragon 765G                                
+
+                                    (1x 2.4GHz Kryo 475 Prime & 1x 2.2GHz Kryo 475 Gold & 6x 1.8GHz Kryo 475 Sliver)",244346,62981,307327
+Android,SoC,"118
+
+
+                                    Samsung Exynos 9810                                
+
+                                    (4x 2.9GHz M3 & 4x 1.9GHz Cortex-A55)",216161,88935,305096
+Android,SoC,"119
+
+
+                                    Qualcomm Snapdragon 695                                
+
+                                    (2x 2.2GHz Kryo 660 Gold & 6x 1.7GHz Kryo 660 Silver)",249584,53368,302952
+Android,SoC,"120
+
+
+                                    Samsung Exynos 880                                
+
+                                    (2x 2.0GHz Cortex-A77 & 6x 1.8GHz Cortex-A55)",260120,39829,299949
+Android,SoC,"121
+
+
+                                    HiSilicon Kirin 810                                
+
+                                    (2x 2.27GHz Cortex-A76 & 6x 1.88GHz Cortex-A55)",233882,58829,292711
+Android,SoC,"122
+
+
+                                    Qualcomm Snapdragon 690                                
+
+                                    (2x 2.0GHz Kryo 560 Gold & 6x 1.7 GHz Kryo 560 Silver)",234428,56541,290969
+Android,SoC,"123
+
+
+                                    MediaTek Dimensity 930                                
+
+                                    (2x 2.2GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",235890,53164,289054
+Android,SoC,"124
+
+
+                                    Qualcomm Snapdragon 720G                                
+
+                                    (2x 2.3GHz Kryo 465 Gold & 6x 1.8GHz Kryo 465 Silver)",231351,51407,282758
+Android,SoC,"125
+
+
+                                    Qualcomm Snapdragon 4 Gen 2                                
+
+                                    (2x 2.2GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",242032,40291,282323
+Android,SoC,"126
+
+
+                                    Qualcomm Snapdragon 4 Gen 1                                
+
+                                    (2x 2.0GHz Kryo Gold & 6x 1.8GHz Kryo Silver)",245472,35180,280652
+Android,SoC,"127
+
+
+                                    Samsung Exynos 1280                                
+
+                                    (2x 2.4GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",211418,68469,279887
+Android,SoC,"128
+
+
+                                    Samsung Exynos 1330                                
+
+                                    (2x 2.4GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",234160,42103,276263
+Android,SoC,"129
+
+
+                                    Qualcomm Snapdragon 750G                                
+
+                                    (2x 2.2GHz Kryo 570 Gold & 6x 1.8GHz Kryo 570 Silver)",222795,52969,275764
+Android,SoC,"130
+
+
+                                    Qualcomm Snapdragon 480 Plus                                
+
+                                    (2x 2.2GHz Kryo 460 Gold & 6x 1.9GHz Kryo 460 Silver)",218423,47953,266376
+Android,SoC,"131
+
+
+                                    MediaTek Dimensity 800U                                
+
+                                    (2x 2.4GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",211836,52908,264744
+Android,SoC,"132
+
+
+                                    MediaTek Dimensity 6300                                
+
+                                    (2x 2.4GHz Cortex-A76 @ 6x 2.0GHz Cortex-A55)",218143,46146,264289
+Android,SoC,"133
+
+
+                                    MediaTek Helio G100 Ultimate                                
+
+                                    (2x 2.2GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",214198,47551,261749
+Android,SoC,"134
+
+
+                                    MediaTek Dimensity 810                                
+
+                                    (2x 2.4GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",215223,46457,261680
+Android,SoC,"135
+
+
+                                    Qualcomm Snapdragon 730G                                
+
+                                    (2x 2.2GHz Kryo 470 Gold  & 6x 1.8GHz Kryo 470 Silver)",213690,47771,261461
+Android,SoC,"136
+
+
+                                    Unisoc T8200                                
+
+                                    (2x 2.3GHz Cortex-A76 & 2.1GHz Cortex-A55)",220570,38865,259435
+Android,SoC,"137
+
+
+                                    MediaTek Helio G200                                
+
+                                    (2x 2.2GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",211137,48178,259315
+Android,SoC,"138
+
+
+                                    MediaTek Helio G100                                
+
+                                    (2x 2.2GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",211481,47386,258867
+Android,SoC,"139
+
+
+                                    Qualcomm Snapdragon 480                                
+
+                                    (2x 2.0GHz Kryo 460 Gold & 6x 1.8GHz Kryo 460 Silver)",211347,46951,258298
+Android,SoC,"140
+
+
+                                    Unisoc T765                                
+
+                                    (2x 2.3GHz Cortex-A76 & 2.1GHz Cortex-A55)",218474,39368,257842
+Android,SoC,"141
+
+
+                                    MediaTek Helio G99                                
+
+                                    (2x 2.2GHz Cortex-A76 &  6x 2.0GHz Cortex-A55)",212507,43395,255902
+Android,SoC,"142
+
+
+                                    MediaTek Helio G95                                
+
+                                    (2x 2.05GHz Cortex-A76 & 6x 2.05GHz Cortex-A55)",198067,56519,254586
+Android,SoC,"143
+
+
+                                    Qualcomm Snapdragon 4s Gen 2                                
+
+                                    (2x 2.0GHz Cortex-A78 & 6x 1.8GHz Cortex-A55)",225130,28135,253265
+Android,SoC,"144
+
+
+                                    Qualcomm Snapdragon 835                                
+
+                                    (4x 2.45GHz Kryo 280 Gold & 4x 1.9GHz Kryo 280 Silver)",188419,64589,253008
+Android,SoC,"145
+
+
+                                    MediaTek Dimensity 800                                
+
+                                    (4x 2.0GHz Cortex-A76 & 4x 2.0GHz Cortex-A55)",192389,60610,252999
+Android,SoC,"146
+
+
+                                    MediaTek Dimensity 6100+                                
+
+                                    (2x 2.2GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",209406,43362,252768
+Android,SoC,"147
+
+
+                                    MediaTek Helio G99 Ultra                                
+
+                                    (2x 2.2GHz Cortex-A76 &  6x 2.0GHz Cortex-A55)",206117,46193,252310
+Android,SoC,"148
+
+
+                                    MediaTek Dimensity 700                                
+
+                                    (2x 2.2GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",208858,40455,249313
+Android,SoC,"149
+
+
+                                    MediaTek Helio G100 Ultra                                
+
+                                    (2x 2.2GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",203553,44936,248489
+Android,SoC,"150
+
+
+                                    Qualcomm Snapdragon 732G                                
+
+                                    (2x 2.3GHz Kryo 470 Gold & 6x 1.8GHz Kryo 470 Silver)",199774,48174,247948
+Android,SoC,"151
+
+
+                                    MediaTek Dimensity 6080                                
+
+                                    (2x 2.4GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",203841,41883,245724
+Android,SoC,"152
+
+
+                                    MediaTek Helio G90T                                
+
+                                    (2x 2.05GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",196481,46677,243158
+Android,SoC,"153
+
+
+                                    MediaTek Dimensity 6020                                
+
+                                    (2x 2.2GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",201687,39512,241199
+Android,SoC,"154
+
+
+                                    Samsung Exynos 8895                                
+
+                                    (4x 2.3GHz M2 & 4x 1.69GHz Cortex-A53)",165434,71960,237394
+Android,SoC,"155
+
+
+                                    Unisoc T750                                
+
+                                    (4x 2.0GHz Cortex-A76 & 4x 2.0GHz Cortex-A55)",196562,37743,234305
+Android,SoC,"156
+
+
+                                    Qualcomm Snapdragon 675                                
+
+                                    (2x 2.0GHz Kryo 460 Gold & 6x 1.7GHz Kryo 460 Silver)",203239,28874,232113
+Android,SoC,"157
+
+
+                                    MediaTek Helio G96                                
+
+                                    (2x 2.05GHz Cortex-A76 &  6x 2.0GHz Cortex-A55)",191556,40218,231774
+Android,SoC,"158
+
+
+                                    MediaTek Dimensity 720                                
+
+                                    (2x 2.0GHz Cortex-A76 & 6x 2.0GHz Cortex-A55)",184497,45598,230095
+Android,SoC,"159
+
+
+                                    MediaTek Dimensity 7020                                
+
+                                    (2x 2.2GHz Cortex-A78 & 6x 2.0GHz Cortex-A55)",150910,79021,229931
+Android,SoC,"160
+
+
+                                    Qualcomm Snapdragon 712                                
+
+                                    (2x 2.3GHz Kryo 360 Gold & 6x 1.7GHz Kryo 360 Silver)",172642,44413,217055
+Android,SoC,"161
+
+
+                                    Qualcomm Snapdragon 680                                
+
+                                    (4x 2.2GHz Kryo 265 Gold & 4x 1.8GHz Kryo 265 Silver)",183782,27407,211189
+Android,SoC,"162
+
+
+                                    HiSilicon Kirin 970                                
+
+                                    (4x 2.36GHz Cortex-A73 & 4x 1.84GHz Cortex-A53)",159255,48540,207795
+Android,SoC,"163
+
+
+                                    Qualcomm Snapdragon 710                                
+
+                                    (2x 2.2GHz Kryo 360 Gold & 6x 1.7GHz Kryo 360 Silver)",168156,38455,206611
+Android,SoC,"164
+
+
+                                    Unisoc T7510                                
+
+                                    (4x 2.0GHz Cortex-A75 & 4x 1.8GHz Cortex-A55)",173260,28732,201992
+Android,SoC,"165
+
+
+                                    Unisoc T710                                
+
+                                    (4x 2.0GHz Cortex-A75 & 4x 1.8GHz Cortex-A55)",168257,28915,197172
+Android,SoC,"166
+
+
+                                    Qualcomm Snapdragon 670                                
+
+                                    (2x 2.0GHz Kryo 360 Gold & 6x 1.7GHz Kryo 360 Silver)",157131,34202,191333
+Android,SoC,"167
+
+
+                                    Qualcomm Snapdragon 821                                
+
+                                    (2x 2.35GHz Kryo & 2x 2.19GHz Kryo)",138492,52473,190965
+Android,SoC,"168
+
+
+                                    Samsung Exynos 8890                                
+
+                                    (4x 2.3GHz Mongoose & 4x 1.6GHz Cortex-A53)",148082,42200,190282
+Android,SoC,"169
+
+
+                                    Qualcomm Snapdragon 820                                
+
+                                    (2x 2.15GHz Kryo & 2x 1.6GHz Kryo)",136995,53174,190169
+Android,SoC,"170
+
+
+                                    MediaTek Helio P90                                
+
+                                    (2x 2.2GHz Cortex-A75 & 6x 2.0GHz Cortex-A55)",152046,32422,184468
+Android,SoC,"171
+
+
+                                    Qualcomm Snapdragon 460                                
+
+                                    (4x 1.8GHz Kryo 240 Gold & 4x 1.8GHz Kryo 240 Silver)",124677,57394,182071
+Android,SoC,"172
+
+
+                                    Unisoc T618                                
+
+                                    (2x 2.0GHz Cortex-A75 & 6x 2.0GHz Cortex-A55)",151848,28466,180314
+Android,SoC,"173
+
+
+                                    MediaTek Helio G80                                
+
+                                    (2x 2.0GHz Cortex-A75 & 6x 1.8GHz Cortex-A55)",153844,26056,179900
+Android,SoC,"174
+
+
+                                    Unisoc T700                                
+
+                                    (2x 1.8GHz Cortex-A75 & 6x 1.8GHz Cortex-A55)",149014,30482,179496
+Android,SoC,"175
+
+
+                                    MediaTek Helio G85                                
+
+                                    (2x 2.0GHz Cortex-A75 & 6x 1.8GHz Cortex-A55)",151513,26793,178306
+Android,SoC,"176
+
+
+                                    MediaTek Helio P70                                
+
+                                    (4x 2.1GHz Cortex-A73 & 4x 2.0GHz Cortex-A53)",145086,26048,171134
+Android,SoC,"177
+
+
+                                    HiSilicon Kirin 960                                
+
+                                    (4x 2.36GHz Cortex-A73 & 4x 1.84GHz Cortex-A53)",134229,36194,170423
+Android,SoC,"178
+
+
+                                    MediaTek Helio G70                                
+
+                                    (2x 2.0GHz Cortex-A75 & 6x 1.7GHz Cortex-A55)",146784,23502,170286
+Android,SoC,"179
+
+
+                                    Qualcomm Snapdragon 660                                
+
+                                    (4x 2.2GHz Kryo 260 Gold & 4x 1.8GHz Kryo 260 Silver)",149507,19799,169306
+Android,SoC,"180
+
+
+                                    MediaTek Helio P65                                
+
+                                    (2x 2.0GHz Cortex-A75 & 6x 2.0GHz Cortex-A55)",147055,21828,168883
+Android,SoC,"181
+
+
+                                    MediaTek Helio G88                                
+
+                                    (2x 2.0GHz Cortex-A75 & 6x 1.8GHz Cortex-A55)",142109,26696,168805
+Android,SoC,"182
+
+
+                                    Samsung Exynos 7420                                
+
+                                    (4x 2.1GHz Cortex-A57 & 4x 1.5GHz Cortex-A53)",139950,28249,168199
+Android,SoC,"183
+
+
+                                    Qualcomm Snapdragon 665                                
+
+                                    (4x 2.0GHz Kryo 260 Gold & 4x 1.8GHz Kryo 260 Silver)",143650,23081,166731
+Android,SoC,"184
+
+
+                                    Qualcomm Snapdragon 662                                
+
+                                    (4x 2.0GHz Kryo 260 Gold & 4x 1.8GHz Kryo 260 Silver)",142510,24123,166633
+Android,SoC,"185
+
+
+                                    MediaTek Helio P60                                
+
+                                    (4x 2.0GHz Cortex-A73 & 4x 2.0GHz Cortex-A53)",142756,22351,165107
+Android,SoC,"186
+
+
+                                    Unisoc T616                                
+
+                                    (2x 2.0GHz Cortex-A75 & 6x 1.6GHz Cortex-A55)",146531,17518,164049
+Android,SoC,"187
+
+
+                                    Unisoc T612                                
+
+                                    (2x 1.8GHz Cortex-A75 & 6x 1.8GHz Cortex-A55)",140897,22986,163883
+Android,SoC,"188
+
+
+                                    HiSilicon Kirin 710                                
+
+                                    (4x 2.2GHz Cortex-A73 & 4x 1.7GHz Cortex-A53)",141798,21832,163630
+Android,SoC,"189
+
+
+                                    Unisoc T610                                
+
+                                    (2x 1.8GHz Cortex-A75 & 6x 1.8GHz Cortex-A55)",141338,22101,163439
+Android,SoC,"190
+
+
+                                    Unisoc T510                                
+
+                                    (4x 1.82GHz Cortex-A75 & 4x 1.8GHz Cortex-A55)",140600,21823,162423
+Android,SoC,"191
+
+
+                                    HiSilicon Kirin 710A                                
+
+                                    (4x 2.0GHz Cortex-A73 & 4x 1.7GHz Cortex-A53)",141414,20201,161615
+Android,SoC,"192
+
+
+                                    MediaTek Helio G81-Ultra                                
+
+                                    (2x 2.0GHz Cortex-A75 & 6x 1.8GHz Cortex-A55)",137849,23719,161568
+Android,SoC,"193
+
+
+                                    Samsung Exynos 9611                                
+
+                                    (4x 2.3GHz Cortex-A73 & 4x 1.7GHz Cortex-A53)",124896,29671,154567
+Android,SoC,"194
+
+
+                                    Qualcomm Snapdragon 636                                
+
+                                    (4x 1.8GHz Kryo 260 Gold & 4x 1.6GHz Kryo 260 Silver)",132995,17512,150507
+Android,SoC,"195
+
+
+                                    Samsung Exynos 9610                                
+
+                                    (4x 2.3GHz Cortex-A73 & 4x 1.7GHz Cortex-A53)",121256,28302,149558
+Android,SoC,"196
+
+
+                                    Unisoc T606                                
+
+                                    (2x 1.6GHz Cortex-A75 & 6x 1.6GHz Cortex-A55)",131415,15523,146938
+Android,SoC,"197
+
+
+                                    Qualcomm Snapdragon 632                                
+
+                                    (4x 1.8GHz Kryo 250 Gold & 4x 1.8GHz Kryo 250 Silver)",122075,11711,133786
+Android,SoC,"198
+
+
+                                    MediaTek Helio X30                                
+
+                                    (2x 2.6GHz Cortex-A73 & 4x 1.9GHz Cortex-A35 & 4x 2.2GHz Cortex-A53)",72100,60080,132180
+Android,SoC,"199
+
+
+                                    Samsung Exynos 7885                                
+
+                                    (2x 2.2GHz Cortex-A73 & 6x 1.6GHz Cortex-A53)",113783,17483,131266
+Android,SoC,"200
+
+
+                                    Samsung Exynos 7904                                
+
+                                    (2x 1.8GHz Cortex-A73 & 6x 1.6GHz Cortex-A53)",104431,14311,118742
+Android,SoC,"201
+
+
+                                    Unisoc T310                                
+
+                                    (1x 2.0GHz Cortex-A75 & 3x 1.8GHz Cortex-A55)",110172,8564,118736
+Android,SoC,"202
+
+
+                                    Samsung Exynos 850                                
+
+                                    (4x 2.0GHz Cortex-A55 & 4x 2.0GHz Cortex-A55)",96961,18002,114963
+Android,SoC,"203
+
+
+                                    Qualcomm Snapdragon 630                                
+
+                                    (4x 2.2GHz Cortex-A53 & 4x 1.8GHz Cortex-A53)",97124,17637,114761
+Android,SoC,"204
+
+
+                                    MediaTek Helio P35                                
+
+                                    (8x 2.3GHz Cortex-A53)",99737,11194,110931
+Android,SoC,"205
+
+
+                                    MediaTek Helio G37                                
+
+                                    (4x 2.3GHz Cortex-A53 & 4x 1.8GHz Cortex-A53)",95634,12189,107823
+Android,SoC,"206
+
+
+                                    MediaTek Helio G35                                
+
+                                    (8x 2.3GHz Cortex-A53)",92337,12260,104597
+Android,SoC,"207
+
+
+                                    MediaTek Helio P25                                
+
+                                    (4x 2.6GHz Cortex-A53 & 4x 1.6GHz Cortex-A53)",92482,10745,103227
+Android,SoC,"208
+
+
+                                    Samsung Exynos 7880                                
+
+                                    (8x 1.9GHz Cortex-A53)",85208,15296,100504
+Android,SoC,"209
+
+
+                                    Unisoc T603                                
+
+                                    (2x 1.8GHz Cortex-A75 & 6x 1.6GHz Cortex-A55)",87530,10688,98218
+Android,SoC,"210
+
+
+                                    MediaTek Helio P23                                
+
+                                    (8x 2.3GHz Cortex-A53)",85066,12388,97454
+Android,SoC,"211
+
+
+                                    JLQ JLQ JR510                                
+
+                                    (4x 2.0GHz Cortex-A55 & 4x 1.5GHz Cortex-A55)",85105,11294,96399
+Android,SoC,"212
+
+
+                                    Qualcomm Snapdragon 439                                
+
+                                    (4x 1.95GHz Cortex-A53 & 4x 1.45GHz Cortex-A53)",85039,10432,95471
+Android,SoC,"213
+
+
+                                    MediaTek Helio P22                                
+
+                                    (8x 2.0GHz Cortex-A53)",82589,11002,93591
+Android,SoC,"214
+
+
+                                    HiSilicon Kirin 950                                
+
+                                    (4x 2.3GHz Cortex-A72 & 4x 1.8GHz Cortex A53)",68429,24221,92650
+Android,SoC,"215
+
+
+                                    MediaTek Helio P20                                
+
+                                    (4x 2.3GHz Cortex-A53 & 4x 1.6GHz Cortex-A53)",80576,12036,92612
+Android,SoC,"216
+
+
+                                    Unisoc SC9863A                                
+
+                                    (4x 1.6GHz Cortex-A55 & 4x 1.2GHz Cortex-A55)",79629,9951,89580
+Android,SoC,"217
+
+
+                                    MediaTek Helio G25                                
+
+                                    (8x 2.0GHz Cortex-A53)",77213,11791,89004
+Android,SoC,"218
+
+
+                                    MediaTek Helio G36                                
+
+                                    (4x 2.2GHz Cortex-A53& 4x 1.8GHz Cortex-A53)",74537,11681,86218
+Android,SoC,"219
+
+
+                                    Samsung Exynos 7870                                
+
+                                    (8x 1.6GHz Cortex-A53)",76679,5281,81960
+Android,SoC,"220
+
+
+                                    Qualcomm Snapdragon 450                                
+
+                                    (8x 1.8GHz Cortex-A53)",71609,10135,81744
+Android,SoC,"221
+
+
+                                    Qualcomm Snapdragon 626                                
+
+                                    (8x 2.2GHz Cortex-A53)",67290,12351,79641
+Android,SoC,"222
+
+
+                                    MediaTek Helio P10                                
+
+                                    (4x 2.0GHz Cortex-A53 & 4x 1.2GHz Cortex-A53)",72319,4876,77195
+Android,SoC,"223
+
+
+                                    Qualcomm Snapdragon 653                                
+
+                                    (4x 1.95GHz Cortex-A72 & 4x 1.44GHz Cortex-A53)",53857,23095,76952
+Android,SoC,"224
+
+
+                                    Samsung Exynos 7872                                
+
+                                    (2x 2.0GHz Cortex-A73 & 4x 1.6GHz Cortex-A53)",61234,11673,72907
+Android,SoC,"225
+
+
+                                    Qualcomm Snapdragon 652                                
+
+                                    (4x 1.8GHz Cortex-A72 & 4x 1.4GHz Cortex-A53)",51932,19909,71841
+Android,SoC,"226
+
+
+                                    Qualcomm Snapdragon 808                                
+
+                                    (2x 1.8GHz Cortex-A57 & 4x 1.4GHz Cortex-A53)",46473,24959,71432
+Android,SoC,"227
+
+
+                                    MediaTek Helio A22                                
+
+                                    (4x 2.0GHz Cortex-A53)",60512,6628,67140
+Android,SoC,"228
+
+
+                                    MediaTek Helio A20                                
+
+                                    (4x 1.8GHz Cortex-A53)",59232,6315,65547
+Android,SoC,"229
+
+
+                                    Qualcomm Snapdragon 650                                
+
+                                    (2x 1.8GHz Cortex-A72 & 4x 1.4GHz Cortex-A53)",46704,17710,64414
+Android,SoC,"230
+
+
+                                    MediaTek Helio X25                                
+
+                                    (2x 2.5GHz Cortex-A72 & 4x 2.0GHz Cortex-A53 & 4x 1.55GHz Cortex-A53)",35296,23871,59167
+Android,SoC,"231
+
+
+                                    Qualcomm Snapdragon 810                                
+
+                                    (4x 2.0GHz Cortex-A57 & 4x 1.5GHz Cortex-A53)",38765,19573,58338
+Android,SoC,"232
+
+
+                                    HiSilicon Kirin 65x                                
+
+                                    (4x 2.0GHz Cortex-A53 & 4x 1.7GHz Cortex-A53)",46587,10696,57283
+Android,SoC,"233
+
+
+                                    MediaTek Helio X20                                
+
+                                    (2x 2.1GHz Cortex-A72 & 4x 1.85GHz Cortex-A53 & 4x 1.4GHz Cortex-A53)",47977,6875,54852
+Android,SoC,"234
+
+
+                                    Qualcomm Snapdragon 625                                
+
+                                    (8x 2.0GHz Cortex-A53)",43808,10506,54314
+Android,SoC,"235
+
+
+                                    Samsung Exynos 7570                                
+
+                                    (4x 1.4GHz Cortex-A53)",45383,2560,47943
+Android,SoC,"236
+
+
+                                    Samsung Exynos 7580                                
+
+                                    (8x 1.6GHz Cortex-A53)",34114,7733,41847
+Android,SoC,"237
+
+
+                                    Qualcomm Snapdragon 617                                
+
+                                    (4x 1.5GHz Cortex-A53 & 4x 1.2GHz Cortex-A53)",29650,10524,40174
+Android,SoC,"238
+
+
+                                    Qualcomm Snapdragon 435                                
+
+                                    (8x 1.4GHz Cortex-A53)",31288,5612,36900
+Android,SoC,"239
+
+
+                                    Qualcomm Snapdragon 430                                
+
+                                    (8x 1.4GHz Cortex-A53)",30362,4237,34599
+Android,SoC,"240
+
+
+                                    MediaTek MT6750                                
+
+                                    (4x 1.5GHz Cortex-A53 & 4x 1.0GHz Cortex-A53)",27012,3802,30814
+Android,SoC,"241
+
+
+                                    Qualcomm Snapdragon 801AC                                
+
+                                    (4x 2.45GHz Krait 400)",13690,15072,28762
+Android,SoC,"242
+
+
+                                    Qualcomm Snapdragon 425                                
+
+                                    (4x 1.4GHz Cortex-A53)",25573,100,25673
