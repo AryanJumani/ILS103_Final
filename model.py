@@ -74,4 +74,67 @@ def get_average_kernel_latency(filepath: str) -> float:
     return sum(latencies) / len(latencies)
 
 
+def calculate_integration_capacity(df: pd.DataFrame, base_kernel_latency: float) -> pd.DataFrame:
+    """
+    Modeling the threshold of concurrent AI operations during 3D rendering.
+    Assuming 60 FPS budget
+    """
+    FRAME_BUDGET_MS = 16.66
+    df = df[(df['Antutu_AI_Score'] > 0) & (df['GPU Score'] > 0)].copy()
+    median_ai_score = df['Antutu_AI_Score'].median()
+    max_gpu_score = df['GPU Score'].max()
 
+    # Scaling
+    df['Device_AI_Kernel_Latency_ms'] = base_kernel_latency * (median_ai_score / df['Antutu_AI_Score'])
+
+    # Calculate MAX operations (no 3d)
+    df['Absolute_Max_AI_Ops'] = FRAME_BUDGET_MS / df['Device_AI_Kernel_Latency_ms']
+
+    # GPU ranking
+    df['GPU_Percentile'] = df['GPU Score'] / max_gpu_score
+
+    # ops allowed without 3d rendering taking effect on performance
+    df['Theoretical_Max_AI_Ops_Per_Frame'] = (df['Absolute_Max_AI_Ops'] * df['GPU_Percentile']).astype(int)
+
+    output_cols = [
+        'Device_Name', 'Normalized_SoC', 'GPU Score', 'Antutu_AI_Score',
+        'Device_AI_Kernel_Latency_ms', 'GPU_Percentile', 'Theoretical_Max_AI_Ops_Per_Frame'
+    ]
+    return df[output_cols].sort_values(by='Theoretical_Max_AI_Ops_Per_Frame', ascending=False)
+
+
+def main():
+    """
+    Main driver function
+    """
+
+    antutu_soc_path = '../Antutu/Android_SoC.csv'
+    antutu_ai_path = '../Antutu/Android_AI_General.csv'
+    deepen_latency_path = '../DeepEn/Kernel_latency/conv-bn-relu_latency.json'
+
+    # Ingestion
+    df_soc = load_soc_benchmarks(antutu_soc_path)
+    df_ai = load_ai_benchmarks(antutu_ai_path)
+    avg_kernel_latency = get_average_kernel_latency(deepen_latency_path)
+
+    # Left joining
+    merged_df = pd.merge(df_ai, df_soc, on='Normalized_SoC', how='left')
+
+    # Calculations
+    final_df = calculate_integration_capacity(merged_df, avg_kernel_latency)
+
+    # Outputting
+    output_dir = '.'
+    output_file = f'{output_dir}/merged_metrics.csv'
+
+    try:
+        # Ensuring output dir exists
+        os.makedirs(output_dir, exist_ok=True)
+        final_df.to_csv(output_file, index=False)
+        print(f"Data successfully merged and exported to: {output_file}")
+    except Exception as e:
+        print(f"Failed to write output file: {e}", file=sys.stderr)
+        sys.exit(1)
+
+if __name__ == "__main__":
+    main()
