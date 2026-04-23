@@ -67,4 +67,11 @@ def get_average_kernel_latency(filepath: str) -> float:
     """
     Parsing DeepEn2023 dataset to calculate the baseline latency of an AI kernel operation.
     """
+    with open(filepath, 'r') as f:
+        data = json.load(f)
+    kernel_data = data.get('conv-bn-relu', {})
+    latencies = [float(metrics['latency']) for metrics in kernel_data.values() if 'latency' in metrics]
+    return sum(latencies) / len(latencies)
+
+
 
