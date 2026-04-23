@@ -97,11 +97,6 @@ Provides per-kernel energy, power, and latency measurements collected directly o
 ```
 
 **Important:** The keys (e.g., `GTFT8Y`, `HH76RD`) are anonymous hardware identifiers, not SoC model names. These were resolved to SoC names using the device-ID mapping table in `DeepEn/Predictor/predictors.yaml` and the `kernel_config.zip` configuration files. The resolved mapping is preserved in `final_data/merged_metrics.csv` via the `Normalized_SoC` column. The `conv-bn-relu` kernel was selected because it is the most computationally dominant layer type in the MobileNet-family architectures commonly deployed for on-device AI rendering tasks.
-
-### 4. Smartphone Processors Ranking — `ML_ALL_benchmarks.csv`, `smartphone_cpu_stats.csv`, `antutu_android_vs_ios_v4.csv`
-**Used in pipeline: no (supporting context only)**  
-Provides cross-platform CPU, GPU, and NPU benchmark scores including iOS devices. These files were examined during exploratory analysis to validate score ranges but were not merged into the final dataset due to inconsistent SoC naming conventions with the Antutu sources and limited overlap with the Android-only scope of the final model.
-
 ---
 
 ## Data Cleaning and Transformation
