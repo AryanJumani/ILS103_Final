@@ -27,3 +27,44 @@ def _extract_soc(text: str, dataset_type: str) -> str:
         print(f"Warning: SoC extraction failed for '{text}': {e}", file=sys.stderr)
         return str(text).strip()
 
+def _extract_device_name(text: str) -> str:
+    """
+    Extracts the commercial device name from the Antutu AI dataset string
+    """
+    # Sanitizing
+    try:
+        text_clean = str(text).replace('\n', '')
+        match = re.search(r'^\d+\s*(.*?)\(', text_clean)
+        if match: # Grouping
+            return match.group(1).strip()
+        return text_clean.strip()
+    except Exception as e:
+        print(f"Warning: Device extraction failed for '{text}': {e}", file=sys.stderr)
+        return str(text).strip()
+
+def load_soc_benchmarks(filepath: str) -> pd.DataFrame:
+    """
+    Loads the Antutu SoC benchmark dataset to extract GPU scores
+    """
+    # Cleaning and processing benchmarks
+    df = pd.read_csv(filepath)
+    df['Normalized_SoC'] = df['Device'].apply(lambda x: _extract_soc(x, 'main'))
+    df = df[['Normalized_SoC', 'GPU Score']].dropna(subset=['Normalized_SoC'])
+    return df.drop_duplicates(subset=['Normalized_SoC'])
+
+def load_ai_benchmarks(filepath: str) -> pd.DataFrame:
+    """
+    Loads the Antutu AI dataset to extract device-specific AI inference scores
+    """
+    # Cleaning and processing scores
+    df = pd.read_csv(filepath)
+    df['Device_Name'] = df['Device'].apply(_extract_device_name)
+    df['Normalized_SoC'] = df['Device'].apply(lambda x: _extract_soc(x, 'ai'))
+    df = df[['Device_Name', 'Normalized_SoC', 'Total Score']].rename(columns={'Total Score': 'Antutu_AI_Score'}).dropna()
+    return df
+
+def get_average_kernel_latency(filepath: str) -> float:
+    """
+    Parsing DeepEn2023 dataset to calculate the baseline latency of an AI kernel operation.
+    """
+
